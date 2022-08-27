@@ -1,0 +1,69 @@
+/* -----------------
+-----Nav bar---------
+--------------------- */
+
+nav>div{
+    display: inline;
+    padding: 40px;
+}
+.list-item{
+    list-style-type: none;
+    display: inline;
+    font-size: 20px;
+    font-family: Poppins;
+    color: #BBBBBB;
+    padding: 40px;
+}
+.grow-list{
+    display: inline-block;
+}
+.nav-button{
+    font-family: poppins;
+    color:white;
+    background-color: #5955B3;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    top: 60px;
+    right: 100px;
+}
+
+/* -----------------banner ---------------*/
+section>div>div{
+    width: 400px;
+    padding: 40px;
+}
+.banner-container{
+    display: inline-block;
+}
+
+.heading-text{
+font-family: poppins;
+color: #3C2F60;
+font-size: 60px;
+}
+.description{
+    width: 400px;
+    font-family: poppins;
+    color:#979797;
+
+}
+section>div>div>img{
+ position:absolute;
+ left: 640px;
+ top: 150px;   
+}
+
+.btn{font-family: poppins;
+    color:white;
+    background-color: #5955B3;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+}
